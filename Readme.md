@@ -96,6 +96,3 @@
 | 877  | [石子游戏](https://github.com/it985/LeetCodeAnimation/tree/master/notes/LeetCode第877号问题：石子游戏.md) |                                                              |
 | 1025 | [除数博弈](https://mp.weixin.qq.com/s/0u6z02QYj1OpAwf54k8-Dw) |                                                              |
 | 1099 | [小于 K 的两数之和](https://mp.weixin.qq.com/s/S6BbLeP_th_9JheNX7NN-w) |                                                              |
-
-
-![](Pictures/qrcode.jpg)
